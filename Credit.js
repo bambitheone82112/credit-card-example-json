@@ -1,0 +1,10 @@
+const IssuingNetwork = "visa"
+const CardNumber = [4467236212464604]
+const Bank = "AMERICAN TRUST BANK"
+const Name = "Dan"
+const Address = "4802 Mulberry Avenue"
+const Country = "UNITED STATES"
+const MoneyRange = "$4573"
+const CVV = [543]
+const Expiry ="10/2027"
+const pin = [7010]
